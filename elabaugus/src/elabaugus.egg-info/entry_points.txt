@@ -1,0 +1,2 @@
+[console_scripts]
+elabaugus = elabaugus.main:main

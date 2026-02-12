@@ -1,0 +1,9 @@
+pyproject.toml
+src/elabaugus/__init__.py
+src/elabaugus/main.py
+src/elabaugus/tools.py
+src/elabaugus.egg-info/PKG-INFO
+src/elabaugus.egg-info/SOURCES.txt
+src/elabaugus.egg-info/dependency_links.txt
+src/elabaugus.egg-info/entry_points.txt
+src/elabaugus.egg-info/top_level.txt
